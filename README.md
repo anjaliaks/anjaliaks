@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anjaliaks861" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anjaliaks861" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anjali-kumari-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/anjali-kumari-" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100036906828878" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100036906828878" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anjaliaks861/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/anjaliaks861/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/anni21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/anni21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjali-kumari-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/anjali-kumari-" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100036906828878" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100036906828878" height="30" width="40" /></a>
+<a href="https://instagram.com/anjaliaks861/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/anjaliaks861/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anni21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/anni21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
