@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaliaks&label=Profile%20views&color=0e75b6&style=flat" alt="anjaliaks" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif">
 
-- 🔭 I’m currently studing in 3rd year
+- 🔭 I’m currently working as Software Engineer at Accenture.
 
-- 🌱 I’m currently learning Back-end development
+- 🌱 I’m currently learning DSA and Automation Testing.
 
 - 👯 I’m looking to collaborate on my projects
 
@@ -20,7 +20,7 @@
   <a href="https://www.hackerrank.com/anni21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/anni21" height="30" width="40" /></a>
 <a href="https://twitter.com/anjaliaks861" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anjaliaks861" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100036906828878" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100036906828878" height="30" width="40" /></a>
-<a href="https://instagram.com/anjaliaks861/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/anjaliaks861/" height="30" width="40" /></a>
+<a href="https://instagram.com/anjaliaks22/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/anjaliaks861/" height="30" width="40" /></a>
 
 </p>
 
